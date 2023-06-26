@@ -597,7 +597,6 @@ img {
 
   .specialist-soc-mobile{
     display: flex;
-    gap:54px;
     justify-content: space-between;
 
   }
